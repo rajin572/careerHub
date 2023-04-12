@@ -1,0 +1,24 @@
+
+ [
+      {
+        "logo": "https://i.postimg.cc/52BP33kQ/accounts1.png",
+        "name": "Food and Beverage",
+        "jobs_available": 10
+      },
+      {
+        "logo": "https://i.postimg.cc/zfqxPg9t/business.png",
+        "name": "Finance",
+        "jobs_available": 15
+      },
+      {
+        "logo": "https://i.postimg.cc/bvLmXvPz/chip1.png",
+        "name": "Healthcare",
+        "jobs_available": 20
+      },
+      {
+        "logo": "https://i.postimg.cc/j55ZRrqy/social-media1.png",
+        "name": "Education",
+        "jobs_available": 5
+      }
+    ]
+  

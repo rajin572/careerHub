@@ -1,0 +1,139 @@
+[
+    {
+      "id": 1,
+      "company_logo": "https://i.postimg.cc/wBQGpLM1/Group.png",
+      "job_title": "Software Engineer",
+      "company_name": "ABC Inc.",
+      "remote_or_onsite": "Remote",
+      "location": "New York, NY",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$100,000 - $120,000",
+      "job_description": "We are seeking a talented software engineer to join our team.",
+      "job_responsibility": [
+        "Develop and maintain software applications",
+        "Collaborate with cross-functional teams"
+      ],
+      "educational_requirements": "Bachelor's or Master's degree in Computer Science or related field",
+      "experiences": "3+ years of experience in software engineering",
+      "contact_information": {
+        "phone": "555-555-5555",
+        "email": "jobs@abcinc.com"
+      }
+    },
+    {
+      "id": 2,
+      "company_logo": "https://i.postimg.cc/k4MhXGRf/tesla-9-1.png",
+      "job_title": "Data Scientist",
+      "company_name": "XYZ Corp.",
+      "remote_or_onsite": "Onsite",
+      "location": "San Francisco, CA",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$120,000 - $150,000",
+      "job_description": "We are seeking a talented data scientist to join our team.",
+      "job_responsibility": [
+        "Develop and implement data models",
+        "Collaborate with cross-functional teams",
+        "Analyze and interpret data",
+        "Communicate findings to stakeholders"
+      ],
+      "educational_requirements": "Master's or PhD in a quantitative field",
+      "experiences": "5+ years of experience in data science",
+      "contact_information": {
+        "phone": "555-555-5555",
+        "email": "jobs@xyzcorp.com"
+      }
+    },
+    {
+      "id": 3,
+      "company_logo": "https://i.postimg.cc/NMNCyt1Y/Vector.png",
+      "job_title": "Product Manager",
+      "company_name": "123 Co.",
+      "remote_or_onsite": "Remote",
+      "location": "Chicago, IL",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$110,000 - $130,000",
+      "job_description": "We are seeking a talented product manager to join our team.",
+      "job_responsibility": [
+        "Develop and execute product roadmap",
+        "Collaborate with cross-functional teams",
+        "Analyze market trends and user feedback",
+        "Define and prioritize product features"
+      ],
+      "educational_requirements": "Bachelor's or Master's degree in a relevant field",
+      "experiences": "3+ years of experience in product management",
+      "contact_information": {
+        "phone": "555-555-5555",
+        "email": "jobs@123co.com"
+      }
+    },
+    {
+      "id": 4,
+      "company_logo": "https://i.postimg.cc/ZK3kQ98d/Untitled.png",
+      "job_title": "Marketing Specialist",
+      "company_name": "ABC Inc.",
+      "remote_or_onsite": "Onsite",
+      "location": "New York, NY",
+      "fulltime_or_parttime": "Part-time",
+      "salary": "$50,000 - $60,000",
+      "job_description": "We are seeking a talented marketing specialist to join our team.",
+      "job_responsibility": [
+        "Develop and implement marketing strategies",
+        "Collaborate with cross-functional teams",
+        "Create and execute campaigns",
+        "Analyze campaign performance",
+        "Identify and target key audiences"
+      ],
+      "educational_requirements": "Bachelor's degree in Marketing or related field",
+      "experiences": "2+ years of experience in marketing",
+      "contact_information": {
+        "phone": "555-555-5555",
+        "email": "jobs@abcinc.com"
+      }
+    },
+    {
+      "id": 5,
+      "company_logo": "https://i.postimg.cc/xjJBkkF4/amzon.png",
+      "job_title": "Frontend Developer",
+      "company_name": "456 Co.",
+      "remote_or_onsite": "Onsite",
+      "location": "Los Angeles, CA",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$80,000 - $100,000",
+      "job_description": "We are seeking a talented frontend developer to join our team.",
+      "job_responsibility": [
+        "Develop and maintain web applications",
+        "Collaborate with cross-functional teams",
+        "Translate designs and wireframes into high-quality code",
+        "Optimize applications for maximum speed and scalability"
+      ],
+      "educational_requirements": "Bachelor's or Master's degree in Computer Science or related field",
+      "experiences": "3+ years of experience in frontend development",
+      "contact_information": {
+        "phone": "555-555-5555",
+        "email": "jobs@456co.com"
+      }
+    },
+    {
+      "id": 6,
+      "company_logo": "https://i.postimg.cc/ZRyjqNKP/images.png",
+      "job_title": "UX Designer",
+      "company_name": "789 Co.",
+      "remote_or_onsite": "Remote",
+      "location": "Seattle, WA",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$90,000 - $110,000",
+      "job_description": "We are seeking a talented UX designer to join our team.",
+      "job_responsibility": [
+        "Create and iterate on user-centered designs",
+        "Collaborate with cross-functional teams",
+        "Conduct user research and usability testing",
+        "Communicate design concepts and solutions to stakeholders"
+      ],
+      "educational_requirements": "Bachelor's or Master's degree in Design or related field",
+      "experiences": "3+ years of experience in UX design",
+      "contact_information": {
+        "phone": "555-555-5555",
+        "email": "jobs@789co.com"
+      }
+    }
+  ]
