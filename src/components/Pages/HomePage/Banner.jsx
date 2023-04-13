@@ -17,7 +17,7 @@ function Banner() {
             need. Its your future. Come find it. Manage all your job application
             from start to finish.
           </p>
-          <Button classname={'mt-5'}>Start</Button>
+          <Button classname={"mt-5"}>Start</Button>
         </div>
         <div className="">
           <img src={ManImage} className=" object-cover max-w-full" alt="" />

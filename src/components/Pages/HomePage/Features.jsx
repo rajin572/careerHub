@@ -11,8 +11,7 @@ function Features() {
       .then((data) => setJob(data));
   }, []);
 
-console.log(see)
-    
+  console.log(see);
 
   return (
     <div className="px-40">
@@ -32,14 +31,17 @@ console.log(see)
         </div>
       ) : (
         <div className="grid sm:grid-cols-2 grid-row-3 justify-center gap-5">
-          {job.slice(0,4).map((data) => (
+          {job.slice(0, 4).map((data) => (
             <Featuresjob data={data} key={data.id} />
           ))}
         </div>
       )}
       <div className="flex justify-center my-10">
-        <Button classname={"text-center cursor-pointer"} onClick={()=>SetSee(!see)}>
-          {see ? "see less" :"see more"}
+        <Button
+          classname={"text-center cursor-pointer"}
+          onClick={() => SetSee(!see)}
+        >
+          {see ? "see less" : "see more"}
         </Button>
       </div>
     </div>
