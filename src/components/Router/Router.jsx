@@ -5,29 +5,29 @@ import JobDetails from "../Pages/JobDetails/JobDetails";
 import AppliedJobs from "../Pages/AppliedJobs/AppliedJobs";
 
 const route = createBrowserRouter([
-    {
-        path: '/',
-        element:<Main></Main>,
-        children:[
-            {
-                path: '/',
-                element:<Homepage/>
-            },
-            {
-                path: '/home',
-                element:<Homepage/>
-            },
-            {
-                path: '/job/:id',
-                element:<JobDetails/>,
-                loader : ({params}) => fetch(`Jobs.json/${params.id}`)
-            },
-            {
-                path: '/appliedJob',
-                element:<AppliedJobs/>
-            },
-        ]
-    }
-])
+  {
+    path: "/",
+    element: <Main></Main>,
+    children: [
+      {
+        path: "/",
+        element: <Homepage />,
+      },
+      {
+        path: "/home",
+        element: <Homepage />,
+      },
+      {
+        path: "/job/:id",
+        element: <JobDetails />,
+        loader: ({ params }) => fetch(`Jobs.json/${params.id}`),
+      },
+      {
+        path: "/appliedJob",
+        element: <AppliedJobs />,
+      },
+    ],
+  },
+]);
 
-export default route
+export default route;
